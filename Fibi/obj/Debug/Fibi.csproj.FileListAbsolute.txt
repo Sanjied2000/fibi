@@ -1,0 +1,11 @@
+D:\projects\fibi\Fibi\obj\Debug\Fibi.csproj.AssemblyReference.cache
+D:\projects\fibi\Fibi\obj\Debug\Fibi.Form1.resources
+D:\projects\fibi\Fibi\obj\Debug\Fibi.csproj.GenerateResource.cache
+D:\projects\fibi\Fibi\bin\Debug\Fibi.exe.config
+D:\projects\fibi\Fibi\bin\Debug\Fibi.exe
+D:\projects\fibi\Fibi\bin\Debug\Fibi.pdb
+D:\projects\fibi\Fibi\obj\Debug\Fibi.Properties.Resources.resources
+D:\projects\fibi\Fibi\obj\Debug\Fibi.csproj.CoreCompileInputs.cache
+D:\projects\fibi\Fibi\obj\Debug\Fibi.exe
+D:\projects\fibi\Fibi\obj\Debug\Fibi.pdb
+D:\projects\fibi\Fibi\obj\Debug\Fibi.Form2.resources
